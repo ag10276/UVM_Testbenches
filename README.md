@@ -1,6 +1,10 @@
 # UVM_Testbenches
-A collection of UVM Testbenches starting with basic combinational and sequential circuits, building up towards protocols and design elements
+- Collection of UVM testbenches starting with basic combinational and sequential blocks.
+- Building core verification skills through structured environments, coverage, and assertions.
+- Working towards expanding toward more complex designs such as controllers, FIFOs, and bus interfaces.
+- Focused on developing scalable, industry-aligned UVM methodology.
 
+Testbenches Written
 1. 4-to-1 Mux
 2. Sequential Up-Down Counter
 3. 3-to-8 Decoder
