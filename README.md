@@ -6,9 +6,16 @@
 
 Testbenches Written
 1. 4-to-1 Mux
-2. Sequential Up-Down Counter
-3. 3-to-8 Decoder
-4. Comparator
+2. 3-to-8 Decoder
+3. Comparator
+4. Adder
+5. ALU
+6. Barrel Shifter
+7. Sequential Up-Down Counter
+8. Universal Shift Register
+9. Traffic Light Controller 
+10. Synchronous FIFO
+11. APB RAM
 
 Working towards - 
 1. Parameterizing these components
